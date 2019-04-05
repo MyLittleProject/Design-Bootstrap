@@ -9,4 +9,4 @@ This is the design that comes with the default installation of the MLP project.
 
 ## Authors
 
-* **Yordan Hristov** - *Initial work* - [Dantcho](https://github.com/Dantcho-BG)
+* **Yordan Hristov** - *Initial work* - [Dantcho](https://github.com/DantchoLV9)
